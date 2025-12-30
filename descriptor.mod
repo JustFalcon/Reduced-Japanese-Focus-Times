@@ -5,5 +5,5 @@ tags={
 	"National Focuses"
 }
 name="Reduced Japanese Focus Times"
-supported_version="1.17.1.1"
+supported_version="1.17.*"
 remote_file_id="3617338959"
